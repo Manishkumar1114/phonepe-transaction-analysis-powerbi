@@ -48,8 +48,8 @@ Digital payment data is spread across several service tables, which makes it har
 ## Data Cleaning
 
 1. Imported and inspected all six sheets (columns, data types, row counts).
-2. Checked every column for missing values: none found.
-3. Checked for duplicate records: none found.
+2. Checked every column for missing values.
+3. Checked for duplicate records.
 4. Confirmed Transaction_ID is unique and that all service-sheet IDs exist in All_Transactions.
 5. Standardised date fields as dates and amounts as numeric values.
 
